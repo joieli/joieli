@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @joieli
-- I am currently a biomedical engineering student at the University of Waterloo
+- I am currently an engineering acoustics student at the Technical University of Denmark
 
 <!---
 joieli/joieli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
